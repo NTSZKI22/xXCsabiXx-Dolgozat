@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link - # 1`] = `
+<a
+  href="#"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Google
+</a>
+`;
+
+exports[`Link - # 2`] = `
+<a
+  className="hovered"
+  href="#"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Google
+</a>
+`;
+
+exports[`Link 1`] = `
+<a
+  href="https://google.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Google
+</a>
+`;
+
+exports[`Link 2`] = `
+<a
+  className="hovered"
+  href="https://google.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Google
+</a>
+`;
